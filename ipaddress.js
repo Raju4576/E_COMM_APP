@@ -1,0 +1,1 @@
+export const ipaddress="http://192.168.155.176:3000"
